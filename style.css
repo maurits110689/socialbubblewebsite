@@ -11,6 +11,11 @@
 
 }
 
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 li {
   float: left;
 }
@@ -42,5 +47,5 @@ h2, p, li {
 }
 
 .inhoud {
-	margin: 4vw;
+	margin: 2vw;
 }
