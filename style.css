@@ -97,3 +97,24 @@ img {
 	width: 100%;
 	max-width: 400px;
 }
+
+.invoerveld {
+	height: 30px;
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	border-radius: 4px;
+}
+
+fieldset {
+	max-width: 500px;
+	margin: auto;
+}
+
+.intro {
+	text-align: center;
+}
+
+.list {
+	max-width: 400px;
+}
